@@ -45,3 +45,4 @@ variable database_cidrs{
     type=list 
     default = ["10.0.21.0/24","10.0.22.0/24"]
 }
+
